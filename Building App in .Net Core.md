@@ -861,3 +861,6 @@ dotnet <span class="token keyword">new</span> <span class="token class-name">mvc
         }
     });
 </code></pre>
+<h2 id="conclusion">Conclusion</h2>
+<p>So far, we have seen how to create a group chat application in <a href="http://ASP.NET">ASP.NET</a> Core MVC by leveraging Pusher as a technology for adding realtime functionality. You can find the complete code on  <a href="https://github.com/dongido001/Dotnet_GroupChat_Using_Pusher">Github</a>.</p>
+
